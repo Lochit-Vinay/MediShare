@@ -35,28 +35,31 @@ By combining **AI, OCR, and smart logistics**, MediShare ensures **verified, eff
 ✅ **Inefficient Donation Systems** – Replaces **manual, unverified donations** with **AI, OCR & smart logistics**.  
 
 ---
-## 🔗Dependencies
 
-1. **Frontend**: 
-React.js, Typescript, Vite,
-Tailwind CSS,
-Leaflet(For map integration),
-Recharts(for anayltics implementation)
+## 🔗 Dependencies
+
+### 1️⃣ Frontend
+- React.js
+- TypeScript
+- Vite
+- Tailwind CSS
+- Leaflet.js (Map integration)
+- Recharts (Analytics & visualizations)
+
+### 2️⃣ Backend
+- Python 3.9+
+- PostgreSQL (via Supabase)
+- OCR.space API
+- Google AI Studio Gemini (1.5 Pro)
+
+### 3️⃣ Microservices
+- FastAPI
+- Flask API
 
 
-2. **Backend**:
-Python 3.9+,
-PostgreSQL (via Supabase),
-OCR.space API, 
-Google studio GEMINI(1.5 Pro) API key.
+### 4️⃣ Deployment
+- Vercel
 
-
-3. **Deployment**:
-Vercel
-
-3. **Microservices**:
-FAST API,
-FLASK API
 ---
 
 
