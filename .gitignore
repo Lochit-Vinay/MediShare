@@ -1,0 +1,12 @@
+# Node
+node_modules/
+dist/
+bun.lockb
+# macOS
+.DS_Store
+__MACOSX/
+# Build output
+mini-project/dist/
+# Env files
+.env*
+mini-project/.env*
